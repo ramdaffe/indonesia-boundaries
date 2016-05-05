@@ -1,0 +1,1 @@
+http://gis.bpbd.jakarta.go.id/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asubdistrict&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature
